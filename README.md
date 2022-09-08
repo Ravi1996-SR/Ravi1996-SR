@@ -13,5 +13,5 @@ const raviteja = {
     },
     architecture: ["Static Web pages", "Responsive Web pages", "Dynamic Web applications", "Single page applications"],
     currentFocus: "Web Development",
-    funFact: "Don't be proud until you get in my dream Job;"
+    funFact: "Don't be proud until achieve my goals;"
 };
